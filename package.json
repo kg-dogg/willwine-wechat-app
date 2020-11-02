@@ -2,7 +2,7 @@
   "name": "willwine-wechat-app",
   "version": "1.0.0",
   "description": "willwine",
-  "author": "黄硕 <shuohuang@rdchina.net>",
+  "author": "黄硕 <kg_dogg@126.com>",
   "private": true,
   "scripts": {
     "dev:wx": "node build/dev-server.js wx",
